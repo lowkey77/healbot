@@ -16,14 +16,14 @@ return {
         },
         ['mage'] = {
             'Haste II',
-            'Refresh II',
+            'Refresh III',
             'Protect V',
             'Shell V',
             'Phalanx II'
         },
         ['mage2'] = {
             'Haste II',
-            'Refresh II',
+            'Refresh III',
             'Phalanx II'
         },
         ['melee'] = {
@@ -34,10 +34,20 @@ return {
         },
         ['self'] = {
             'Haste II',
-            'Refresh II',
+            'Refresh III',
             'Aquaveil',
             'Protect V',
             'Shell V',
+            'Phalanx',
+            'Reraise',
+            'Composure'
+        },
+		['nin'] = {
+            'Haste II',
+            'Refresh III',
+            'Protect V',
+            'Shell V',
+            'Temper II',
             'Phalanx',
             'Reraise',
             'Composure'
